@@ -7,11 +7,10 @@ This a personal project where I mess around with Machine Learning skills on a Da
 
 ------------
 
-Link to DataSet: [Predicting a Pulsar Star](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)
 
 ## DataSet Details
 
-**UCI dataset link:** [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/wine)
+Link to DataSet: [Predicting a Pulsar Star](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)
 
 **Attributes:** 9
 
